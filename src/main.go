@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func main() {
+func main_old() {
 	//Declaración de constantes
 	const pi float64 = 3.14
 	const pi2 = 3.1415
