@@ -46,6 +46,9 @@ func main() {
 	value1, value2 := doubleReturn(2)
 	fmt.Println("value1 y value2:", value1, value2)
 
+	value3, _ := doubleReturn(2)
+	fmt.Println("value3 :", value3)
+
 	const PI float64 = 3.1415926535
 	x := 10
 	y := 50
