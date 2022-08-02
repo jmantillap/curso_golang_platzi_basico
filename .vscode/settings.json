@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "vscode-icons",
+    "terminal.integrated.profiles.windows":{
+        "gitbash": {
+            "path": "C:\\Git\\bin\\bash.exe",
+            "icon": "terminal-bash"
+        },
+        "bash": {
+            "path": "C:\\Windows\\System32\\bash.exe",
+            "icon": "terminal-bash"
+        },
+    },
+    "terminal.integrated.defaultProfile.windows": "gitbash",
+    "go.toolsManagement.autoUpdate": true,
+    "[go]": {    
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,        
+    },    
+    
+}

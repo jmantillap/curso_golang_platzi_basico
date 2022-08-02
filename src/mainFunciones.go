@@ -35,7 +35,7 @@ func areaCirculo(diametro int, PI float64) (area float64) {
 	return PI * ((float64(radio)) * (float64(radio)))
 }
 
-func main() {
+func main_2() {
 
 	normalFunction("Hola mundo")
 	tripeArgument(1, 2, "hola")
